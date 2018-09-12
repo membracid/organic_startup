@@ -5,7 +5,9 @@ if you don't use important in the organic widgets line, it doesn't change anythi
 #body {background-color: black !important}
 
  p {color: white}
-
+li  {
+	color: white
+}
 title {color: white}
 
 h1 {color: white}
