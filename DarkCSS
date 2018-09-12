@@ -1,4 +1,5 @@
-/* original version*/ 
+/* original version
+if you don't use important in the organic widgets line, it doesn't change anything*/ 
 
 
 #body {background-color: black !important}
