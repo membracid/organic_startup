@@ -1,21 +1,15 @@
-#body {
-	background-color: black !important
-}
+/* original version*/ 
 
 
- p {
-	color: white
-}
+#body {background-color: black !important}
 
-title {
-	color: white
-}
-h1 {
-	color: white
-}
+ p {color: white}
+
+title {color: white}
+
+h1 {color: white}
 
 a.organic-widgets-button {
-    color: black !important;
-}
+    color: black !important;}
 
 .banner-img {background-color: black}
