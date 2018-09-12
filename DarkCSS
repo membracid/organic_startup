@@ -1,18 +1,28 @@
 /* original version
-if you don't use important in the organic widgets line, it doesn't change anything*/ 
+if you don't use important in the organic widgets line, it doesn't change anything. 
+Using #body is a problem, but nothing else seems to work.*/ 
 
 
-#body {background-color: black !important}
-
- p {color: white}
-li  {
-	color: white
-}
-title {color: white}
-
-h1 {color: white}
-
-a.organic-widgets-button {
-    color: black !important;}
-
-.banner-img {background-color: black}
+#body {
+	    background-color: black 
+	}
+		
+	 p {
+	    color: white
+	}
+	
+	li  {
+	    color: white
+	}
+	
+	title {
+	    color: white
+	}
+	h1 {
+	    color: white
+	}
+	
+	a.organic-widgets-button {
+	    color: black !important;}
+	
+	.banner-img {background-color: black}
