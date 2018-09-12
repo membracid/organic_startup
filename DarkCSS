@@ -1,0 +1,21 @@
+#body {
+	background-color: black !important
+}
+
+
+ p {
+	color: white
+}
+
+title {
+	color: white
+}
+h1 {
+	color: white
+}
+
+a.organic-widgets-button {
+    color: black !important;
+}
+
+.banner-img {background-color: black}
