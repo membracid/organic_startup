@@ -1,3 +1,8 @@
+/*note that including text AFTER the tablepress short code will result in incorrect theming; 
+will revert to theme default. All text needs to go above the table shortcode to be visible.*/
+
+
+
 .tablepress .even td {
 	color: white;
 	background-color: inherit;
