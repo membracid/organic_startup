@@ -26,3 +26,11 @@ Using #body is a problem, but nothing else seems to work.*/
 	    color: black !important;}
 	
 	.banner-img {background-color: black}
+
+
+/* This is to remove the overlay on featured images */
+
+.banner-img.startup-bg-dark::before,
+.banner-img.startup-bg-light::before {
+  background: none;
+}
